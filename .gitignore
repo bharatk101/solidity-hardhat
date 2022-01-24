@@ -1,0 +1,9 @@
+./events_logs/node_modules/
+./events_logs/env
+./events_logs/coverage
+./events_logs/coverage.json
+./events_logs/typechain
+
+#Hardhat files
+./events_logs/cache
+./events_logs/artifacts
